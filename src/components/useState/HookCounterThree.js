@@ -7,7 +7,7 @@ function HookCounterThree() {
   return (
     <div>
         <h3>HookCounterThree</h3>
-        <p>Use Spread Operator ... with objects {`setName({
+        <p>Use Spread Operator ... with objects/arrays {`setName({
             ...name,
             firstName: e.target.value
             })`}</p>
